@@ -10,3 +10,12 @@ header {
   color: white;
   border: bottom 1px #CCCCCC;
 }
+
+.logo {
+	margin-left: 20px;
+	height: 100%;
+	width: 142px;
+	background-image: url("../images/hbnb_logo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
