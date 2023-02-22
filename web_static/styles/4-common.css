@@ -1,0 +1,21 @@
+/*
+ *  * === Common style ===
+ *   */
+
+/* Body style */
+
+body {
+	margin : 0;
+	padding: 0;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+div.container {
+	margin: 30px auto;
+	max-width: 1000px;
+	width: 100%;
+	border: 1px solid #DDDDDD;
+  border-radius: 4px;
+}
